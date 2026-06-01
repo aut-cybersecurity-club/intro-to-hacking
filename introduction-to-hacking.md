@@ -1,7 +1,5 @@
 Welcome hacker! The following is a short guide on the main topics within hacking. You'll find descriptions for each topic, along with common free-to-use tools.
 
-todo: create a visual roadmap of where what topics people should learn, a recommended order that's just a guide, feel free to change it around if you like!
-
 # Web Security
 
 This domain focuses on finding and exploiting vulnerabilities in web applications, such as Cross-Site Scripting (XSS), SQL Injection, Broken Authentication/Authorization and more.
