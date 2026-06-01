@@ -39,6 +39,18 @@ Recommended Burp Plugins:
 - [Turbo Intruder](https://github.com/portswigger/turbo-intruder) - No rate limiting like the normal intruder tool has
 - [Param Miner](https://github.com/portswigger/param-miner) - Can break your client-side browsing experience
 
+## Binary Exploitation & Reverse Engineering
+
+To be filled in.
+
+## Cryptography
+
+To be filled in.
+
+## Network Security
+
+To be filled in.
+
 ## AUT Cyber Security Papers
 
 At AUT, we have a number of papers that help education cyber security:
