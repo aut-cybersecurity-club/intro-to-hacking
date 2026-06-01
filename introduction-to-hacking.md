@@ -17,7 +17,7 @@ All those beginner friendly topics do have their more advanced aspects, but they
 We want to mention CORS, it's an important topic which has many aspects. It's important in both web development and web security.
 
 A special mention for Port Swigger, it's the go to place for learning how to exploit every web security vulnerability!
-They have free labs and a free academy to learn from! They only charge for the professional version of their industry leading BurpSuite software, and their industry recognized exam.
+They have free labs and a free academy to learn from! They only charge for the professional version of their industry leading BurpSuite software, and their industry recognized exam:
 - [Port Swigger](https://portswigger.net/web-security/all-topics)
 
 Beginner topics:
@@ -25,7 +25,6 @@ Beginner topics:
 - [Stored Cross-Site Scripting](https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/07-Input_Validation_Testing/02-Testing_for_Stored_Cross_Site_Scripting.html)
 - [DOM-Based Cross-Site Scripting](https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/11-Client_Side_Testing/01-Testing_for_DOM-based_Cross_Site_Scripting.html)
 - [SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
-
 - [Full list of attacks - OWASP](https://owasp.org/www-community/attacks/)
 
 Cheatsheets:
